@@ -1,0 +1,23 @@
+{
+    "name": "Concentration",
+    "dependencies": {
+        "device": "*",
+        "animation": "*",
+        "pxt-arcade-grid": "github:robo-technical-group/pxt-arcade-grid#v1.0.4",
+        "pxt-arcade-info-screens": "github:robo-technical-group/pxt-arcade-info-screens#v1.0.11"
+    },
+    "description": "",
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "custom.ts"
+    ],
+    "preferredEditor": "blocksprj",
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "arcade"
+    ]
+}
